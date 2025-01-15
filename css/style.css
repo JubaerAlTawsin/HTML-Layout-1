@@ -1,0 +1,96 @@
+.header{
+    height: 100px;
+    background-color: red;
+}
+.container{
+overflow: hidden;
+}
+.blog{
+    float: left;
+    width: 70%;
+    height: 100px;
+    background-color: aqua;
+}
+.contact{
+    float: right;
+    width: 30%;
+    height: 100px;
+    background-color: teal;
+}
+.i1{
+    float: left;
+    width: 33.3%;
+    height: 100px;
+    background-color: yellow;
+}
+.i2{
+    float: left;
+    width: 33.3%;
+    height: 100px;
+    background-color: rgb(233, 163, 12);
+}
+.i3{
+    float: left;
+    width: 33.3%;
+    height: 100px;
+    background-color: rgb(38, 20, 239);
+}
+.i4{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: rgb(203, 174, 12);
+}
+.i5{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: rgb(203, 72, 12);
+}
+.i6{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: rgb(39, 153, 234);
+}
+.i7{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: rgb(97, 239, 20);
+}
+.i8{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: rgb(20, 93, 239);
+}
+.i9{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: rgb(217, 14, 197);
+}
+.i10{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: rgb(20, 239, 235);
+}
+.i11{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: rgb(239, 173, 20);
+}
+.i12{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: rgb(97, 20, 239);
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+}
